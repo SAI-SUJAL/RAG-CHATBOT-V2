@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Based on your past chats, here's a description for the RAG (Retrieval-Augmented Generation) chatbot project that you can use for GitHub:
 
 ---
@@ -27,3 +28,6 @@ This project is an advanced AI chatbot that leverages Retrieval-Augmented Genera
 This project serves as a robust foundation for developing AI-driven applications that require accurate and context-independent responses. It is ideal for developers and researchers looking to build sophisticated AI systems with advanced data management and learning capabilities.
 
 ---
+=======
+# RAG-CHATBOT-V2
+>>>>>>> 9d0ebab0e82887da04f9db3b4acb4e38822d1b52
